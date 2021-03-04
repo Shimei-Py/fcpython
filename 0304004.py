@@ -1,0 +1,21 @@
+print(2,5,9,"adf",0.2)
+print(2,5,76,"adf",0.2,sep="")
+print(3,5,9,"good",0.2,sep=" ")
+print(2,8,9,"adf",0.2,sep="",end="\n")
+print(0,5,100,"adf",0.2,sep="---",end="")
+print(0.3147658,5,9,"abc",0.2,sep="")
+
+print(int("36"))
+print(float("5.23"))
+print(float("835"))
+print(str(99))
+
+a=float(330.12654)
+b=int(a)
+print(b)
+
+print(list(range(10)))
+print(list(range(2,9)))
+print(list(range(1,10,2)))
+print(list(range(10,1,-1)))
+print(list(range(1,10)))
